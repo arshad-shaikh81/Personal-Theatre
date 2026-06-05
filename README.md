@@ -97,8 +97,8 @@ movie-theatre-booking-system/
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+Shaikh Arshad
+- GitHub: https://github.com/arshad-shaikh81
 
 ---
 
